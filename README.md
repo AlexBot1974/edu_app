@@ -9,8 +9,14 @@ Alex Bocharov and Vladislav Vasilev skype bam271074
 
 to run bot install the following libs:
 
-import pandas as pd
-import re  #for regular expression
-import pickle
-import telebot
+-import pandas as pd
+
+
+-import re  #for regular expression
+
+
+-import pickle
+
+
+-import telebot
 #!pip install PyTelegramBotAPI if nessesery
